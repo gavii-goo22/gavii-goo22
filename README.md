@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gavii-goo22
 - 👀 I’m interested in Music, Video Games, and Art
-- 🌱 I’m currently learning New Programming Langueages,(i.e, C#, and Java.)
+- 🌱 I’m currently learning New Programming Languages,(i.e, C#, and Java.)
 - 💞️ I’m looking to collaborate on everything and anything, just need experience.
 - 📫 gavincrhoads@gmail.com
 
